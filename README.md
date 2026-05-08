@@ -2,6 +2,9 @@
 
 Estudante de Engenharia Informática no IPS e entusiasta de **AI-Driven Development**. Foco-me em criar soluções de software onde o rigor da arquitetura e a rapidez de entrega andam de mãos dadas.
 
+## 🌐 Portefolio
+- **Portefólio:** [leonardo-barreiras.vercel.app](https://leonardo-barreiras.vercel.app/)
+
 ### 🚀 Sobre mim
 - 🎓 Atualmente no 3.º ano de Engenharia Informática (IPS).
 - 🛠️ Focado em ecossistemas **.NET** (Backend), **UI/X** (Frontend) e **Android Nativo** (Mobile).
