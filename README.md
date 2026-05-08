@@ -1,6 +1,6 @@
 # Leonardo Barreiras! 
 
-Estudante de Engenharia Informática no IPS e entusiasta de **AI-Driven Development**. Foco-me em criar soluções de software onde o rigor da arquitetura e a rapidez de entrega andam de mãos dadas.
+Estudante de Engenharia Informática no IPS e entusiasta de **Web Development** e **AI-Driven Development**. Foco-me em criar soluções de software onde o rigor da arquitetura e a rapidez de entrega andam de mãos dadas.
 
 
 ### 🚀 Sobre mim
