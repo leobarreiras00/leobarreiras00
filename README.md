@@ -10,8 +10,6 @@ Estudante de Engenharia Informática no IPS e entusiasta de **AI-Driven Developm
 - 🤖 Especialista em integrar ferramentas de IA para otimizar o ciclo de desenvolvimento (SDLC).
 - 🏗️ Defensor de arquitetura limpa, código organizado e documentação rigorosa (Obsidian as a Second Brain).
 
-Color=white)
-
 ### 🛠️ Tech Stack
 
 **Backend & Software Engineering**<br>
