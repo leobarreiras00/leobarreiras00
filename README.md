@@ -1,14 +1,24 @@
-# Leonardo Barreiras! 
+# Leonardo Barreiras
 
-Estudante de Engenharia Informática no IPS e entusiasta de **Web Development** e **AI-Driven Development**. Foco-me em criar soluções de software onde o rigor da arquitetura e a rapidez de entrega andam de mãos dadas.
+Estudante de Engenharia Informática no IPS e entusiasta de **AI-Driven Development**. Foco-me em criar soluções de software onde o rigor da arquitetura e a rapidez de entrega andam de mãos dadas.
 
+---
+
+### 🌐 Conecta-te comigo
+[![Portfolio](https://img.shields.io/badge/Portefólio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://leonardo-barreiras.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-barreiras)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leo.gbarreiras@gmail.com)
+
+---
 
 ### 🚀 Sobre mim
 - **Portefólio:** [leonardo-barreiras.vercel.app](https://leonardo-barreiras.vercel.app/)
 - 🎓 Atualmente no 3.º ano de Engenharia Informática (IPS).
-- 🛠️ Focado em ecossistemas **.NET** (Backend), **UI/X** (Frontend), **C#** e outras frameworks.
+- 🛠️ Focado em ecossistemas **.NET** (Backend), **UI/UX** (Frontend), **C#** e outras frameworks.
 - 🤖 Especialista em integrar ferramentas de IA para otimizar o ciclo de desenvolvimento (SDLC).
 - 🏗️ Defensor de arquitetura limpa, código organizado e documentação rigorosa (Obsidian as a Second Brain).
+
+---
 
 ### 🛠️ Tech Stack
 
@@ -28,12 +38,26 @@ Estudante de Engenharia Informática no IPS e entusiasta de **Web Development** 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white)
 
 **Gestão de Redes e Computadores**<br>
- ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
+
+---
 
 ### 📁 Projetos em Destaque
 * **CareSync:** Sistema completo em ASP.NET Core MVC focado em gestão e faturação.
 * **FloorManage:** Sistema completo de gestão de tráfego de elevadores em Java.
 * **LugarCerto:** App Android (Kotlin) com arquitetura MVVM e lógica Offline-First (em desenvolvimento).
 
-### 📫 Contacto
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-barreiras)
+---
+
+### 📜 Certificações e Formação Contínua
+
+**Cisco Networking Academy**
+* 🛡️ **Networking Basics** (22h)
+* 🇬🇧 **English for IT 1** (50h)
+
+**Plataforma NAU**
+* 🏗️ **[Estruturas de Dados](https://lms.nau.edu.pt/certificates/e38eb049b47b4e6885b0987e3c14637e)** (25h)
+* 🗄️ **[Fundamentos de Bases de Dados](https://lms.nau.edu.pt/certificates/eb3c9c19ed154ff1878d624191b6d739)** (25h)
+* 🌐 **[Introdução à Programação Web](https://lms.nau.edu.pt/certificates/f6376cce1f4748c7826c8ee2cbb72599)** (25h)
+* 🎨 **[Introdução ao CSS](https://lms.nau.edu.pt/certificates/2c5a3b1cb1a3413aa06add28efacada8)** (21h)
+* 📄 **[Introdução ao HTML](https://lms.nau.edu.pt/certificates/3bd2a6afc7ab4442b855edc51eeb6ed3)** (21h)
