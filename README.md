@@ -14,7 +14,7 @@ Estudante de Engenharia Informática no IPS e entusiasta de **AI-Driven Developm
 ### 🚀 Sobre mim
 - **Portefólio:** [leonardo-barreiras.vercel.app](https://leonardo-barreiras.vercel.app/)
 - 🎓 Atualmente no 3.º ano de Engenharia Informática (IPS).
-- 🛠️ Focado em ecossistemas **.NET** (Backend), **UI/UX** (Frontend), **C#** e outras frameworks.
+- 🛠️ Focado em ecossistemas **.NET** (Backend), desenvolvimento **Web/Frontend** moderno e **UI/UX**.
 - 🤖 Especialista em integrar ferramentas de IA para otimizar o ciclo de desenvolvimento (SDLC).
 - 🏗️ Defensor de arquitetura limpa, código organizado e documentação rigorosa (Obsidian as a Second Brain).
 
@@ -32,7 +32,7 @@ Estudante de Engenharia Informática no IPS e entusiasta de **AI-Driven Developm
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 **Web & UI/UX**<br>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 **Ferramentas, Gestão & Infraestrutura**<br>
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white)
@@ -43,9 +43,9 @@ Estudante de Engenharia Informática no IPS e entusiasta de **AI-Driven Developm
 ---
 
 ### 📁 Projetos em Destaque
+* **LBMODS:** Plataforma web premium de e-commerce e catálogo de relógios de luxo customizados (Next.js, React, Tailwind CSS).
 * **CareSync:** Sistema completo em ASP.NET Core MVC focado em gestão e faturação.
 * **FloorManage:** Sistema completo de gestão de tráfego de elevadores em Java.
-* **LugarCerto:** App Android (Kotlin) com arquitetura MVVM e lógica Offline-First (em desenvolvimento).
 
 ---
 
