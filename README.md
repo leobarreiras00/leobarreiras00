@@ -34,8 +34,8 @@ Estudante de Engenharia Informática no IPS e entusiasta de **AI-Driven Developm
 **Web & UI/UX**<br>
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-**Ferramentas, Gestão & Infraestrutura**<br>
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white)
+**Ferramentas, Cloud & DevOps**<br>
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white) ![MQTT](https://img.shields.io/badge/mqtt-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 
 **Gestão de Redes e Computadores**<br>
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
@@ -43,7 +43,8 @@ Estudante de Engenharia Informática no IPS e entusiasta de **AI-Driven Developm
 ---
 
 ### 📁 Projetos em Destaque
-* **LBMODS:** Plataforma web premium de e-commerce e catálogo de relógios de luxo customizados (Next.js, React, Tailwind CSS).
+* **Seatly:** Plataforma SaaS integrada de gestão e validação de eventos. Arquitetura full-stack composta por um Backoffice moderno (Next.js, TypeScript, Glassmorphism UI) alojado na Vercel, uma API RESTful escalável (.NET, Entity Framework, SQL Server) implementada em Microsoft Azure, e uma aplicação móvel nativa (Kotlin) para controlo de acessos. Integra também telemetria IoT via protocolo MQTT para dashboards em tempo real.
+* **lbwatches:** Plataforma web premium de e-commerce e catálogo de relógios de luxo customizados (Next.js, React, Tailwind CSS).
 * **CareSync:** Sistema completo em ASP.NET Core MVC focado em gestão e faturação.
 * **FloorManage:** Sistema completo de gestão de tráfego de elevadores em Java.
 
